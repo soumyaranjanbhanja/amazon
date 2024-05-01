@@ -1,0 +1,16 @@
+header{
+  height:99px;
+  border:1px dashed red; 
+  background:  #131921;
+}
+
+.a_main{
+  height:4818px;
+  border:1px dashed blue;
+}
+
+footer{
+  height: 227px;
+  border:1px dashed green;
+  background:  #131921;
+}
